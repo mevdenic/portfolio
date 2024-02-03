@@ -1,0 +1,46 @@
+.sideContainer {
+    position: fixed;
+    top: 40%;
+}
+
+.sideLink {
+    position: absolute;
+    background-color: var(--red);
+    padding-right: 0.3rem;
+    border-radius: 0.5rem;
+    width: 10rem;
+    height: 4rem;
+    text-align: end;
+    left: -9rem;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.sideLink1 {
+    top: 0;
+}
+
+.sideLink2 {
+    top: 4.5rem;
+}
+
+.sideLink3 {
+    top: 9rem;
+}
+
+.sideLink:hover {
+    left: -5rem;
+}
+
+.images {
+    padding: 10px 0;
+    object-fit: contain;
+    width: 50%;
+    height: 100%;
+}
+
+@media screen and (max-width: 900px) {
+    .sideContainer {
+        display: none;
+    }
+}

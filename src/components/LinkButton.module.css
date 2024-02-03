@@ -1,0 +1,14 @@
+.btn {
+    font-size: 1.25rem;
+    background-color: var(--red);
+    color: white;
+    padding: 10px 15px;
+    border-radius: 30px;
+    border: none;
+    cursor: pointer;
+    transition: 0.3s;
+    text-align: center;
+}
+.btn:hover {
+    transform: translate(0, -5px);
+}

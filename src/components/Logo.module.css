@@ -1,0 +1,10 @@
+.logoWrapper {
+    display: flex;
+    align-items: center;
+}
+
+@media screen and (max-width: 900px) {
+    .logo {
+        width: 80%;
+    }
+}
