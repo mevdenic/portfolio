@@ -7,7 +7,7 @@ export function Welcome() {
             <div className={styles.introduction}>
                 <h1>Hi, I&apos;m Mihael.</h1>
                 <h2>
-                    I am a <span style={{ color: "var(--red)", fontWeight: "bold" }}>Frontend</span>{" "}
+                    I am a <span style={{ color: "var(--red)", fontWeight: "bold" }}>Software</span>{" "}
                     Developer from Zagreb.
                 </h2>
                 <div className={styles.container}>
