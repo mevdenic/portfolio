@@ -1,3 +1,3 @@
 # React + Vite
 
-Site demo: https://phenomenal-lamington-971ccd.netlify.app/
+Site demo: https://mihael-evdenic-portfolio.netlify.app/
