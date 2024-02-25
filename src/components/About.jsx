@@ -17,9 +17,9 @@ export function About() {
                 </p>
                 <p className={styles.aboutParagraph}>
                     Technical skills I possess: <span>HTML5</span>, <span>CSS3</span>,{" "}
-                    <span>JavaScript (ES6+)</span>, <span>React.js</span>,<br></br>{" "}
-                    <span>J-Query</span>, <span>APIs</span>, <span>C</span>,{" "}
-                    <span>Material-UI</span>, <span>Git</span>, <span>GitHub</span>.
+                    <span>JavaScript (ES6+)</span>, <span>React.js</span>, <span>J-Query</span>,{" "}
+                    <span>APIs</span>, <span>C</span>, <span>Material-UI</span>, <span>Git</span>,{" "}
+                    <span>GitHub</span>.
                 </p>
                 <p className={styles.aboutParagraph}>
                     My current plan is to work as a <span>student software developer</span>, so I
